@@ -12,7 +12,7 @@
 
 🎓 B.Tech Information Technology @ Madhav Institute of Technology & Science (MITS), Gwalior
 
-🌐 Portfolio: portfolio-delta-pink-5qbp6ymnyb.vercel.app
+🌐 Portfolio: https://portfolio-delta-pink-5qbp6ymnyb.vercel.app/
 
 ---
 
