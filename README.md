@@ -12,7 +12,7 @@
   <a href="mailto:surajsingh19082004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/surajsingh" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-singh-tomar-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/SurajCodeBase" target="_blank">
@@ -93,20 +93,6 @@ I'm a **B.Tech (IT) student at MITS Gwalior** with a strong foundation in data a
 - 📘 **Data Analysis with Python** — Coursera
 - 📘 **SQL for Data Analysis** — Coursera
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajCodeBase&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajCodeBase&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajCodeBase&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
