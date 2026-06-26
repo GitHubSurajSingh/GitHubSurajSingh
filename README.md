@@ -101,7 +101,7 @@ I'm always open to collaborating on data projects, discussing analytics workflow
 📬 **surajsingh19082004@gmail.com** · 📱 **+91 9518584807**
 
 <p align="center">
-  <a href="https://portfolio-delta-pink-5qbp6ymnyb.vercel.app/">
+  <a href="https://portfolio-final-mu-three.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 View My Portfolio-0A66C2?style=for-the-badge" />
   </a>
 </p>
