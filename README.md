@@ -33,7 +33,7 @@ I'm a **B.Tech (IT) student at MITS Gwalior** with a strong foundation in data a
 - 📊 Skilled in building end-to-end data pipelines, interactive dashboards, and SQL-driven analytical reports
 - 🌱 Continuously exploring **ETL architecture**, **data warehousing**, and **cloud-based analytics**
 - 🏆 CBSE Class XII — **94.40%**
-- 🔗 Check out my portfolio: [portfolio-delta-pink-5qbp6ymnyb.vercel.app](https://portfolio-delta-pink-5qbp6ymnyb.vercel.app/)
+- 🔗 Check out my portfolio: [https://portfolio-final-mu-three.vercel.app/)
 
 ---
 
